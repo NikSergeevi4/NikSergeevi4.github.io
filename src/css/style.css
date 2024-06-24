@@ -439,6 +439,7 @@ nav {
   background: url("../img/bg/map.jpg") center center/cover no-repeat;
 }
 .map_link {
+  margin-bottom: 15px;
   display: block;
   font-size: 15px;
   color: #1fbad6;

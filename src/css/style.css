@@ -444,9 +444,11 @@ nav {
   font-size: 15px;
   color: #1fbad6;
   text-align: center;
-  padding-top: 486px;
   text-decoration: none;
   text-transform: uppercase;
+}
+.map .subtitle_car {
+  margin-bottom: 486px;
 }
 
 .footer_line {

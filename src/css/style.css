@@ -348,8 +348,7 @@ nav {
 
 .lable_car {
   display: block;
-  margin: 0 auto;
-  margin-top: 71px;
+  margin: 71px auto 0 auto;
   text-align: center;
   width: 112px;
   line-height: 24px;
@@ -741,4 +740,13 @@ nav {
     line-height: 16px;
     font-size: 16px;
   }
+}
+.clearfix {
+  overflow: auto;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }/*# sourceMappingURL=style.css.map */
